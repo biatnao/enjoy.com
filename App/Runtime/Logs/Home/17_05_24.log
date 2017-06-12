@@ -1,0 +1,996 @@
+[ 2017-05-24T09:49:55+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:49:59+08:00 ] 127.0.0.1 /index/copy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.028003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.028003s ]
+
+[ 2017-05-24T09:49:59+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:17+08:00 ] 127.0.0.1 /index/copy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant curlOPT_RETURNTRANSFER - assumed 'curlOPT_RETURNTRANSFER' D:\phpStudy\WWW\enjoy.com\App\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [2] curl_setopt() expects parameter 2 to be long, string given D:\phpStudy\WWW\enjoy.com\App\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant curlOPT_proxy - assumed 'curlOPT_proxy' D:\phpStudy\WWW\enjoy.com\App\Home\Controller\IndexController.class.php 第 49 行.
+NOTIC: [2] curl_setopt() expects parameter 2 to be long, string given D:\phpStudy\WWW\enjoy.com\App\Home\Controller\IndexController.class.php 第 49 行.
+NOTIC: [8] Use of undefined constant curlOPT_proxyPORT - assumed 'curlOPT_proxyPORT' D:\phpStudy\WWW\enjoy.com\App\Home\Controller\IndexController.class.php 第 50 行.
+NOTIC: [2] curl_setopt() expects parameter 2 to be long, string given D:\phpStudy\WWW\enjoy.com\App\Home\Controller\IndexController.class.php 第 50 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015002s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/copy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant curlOPT_RETURNTRANSFER - assumed 'curlOPT_RETURNTRANSFER' D:\phpStudy\WWW\enjoy.com\App\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [2] curl_setopt() expects parameter 2 to be long, string given D:\phpStudy\WWW\enjoy.com\App\Home\Controller\IndexController.class.php 第 48 行.
+NOTIC: [8] Use of undefined constant curlOPT_proxy - assumed 'curlOPT_proxy' D:\phpStudy\WWW\enjoy.com\App\Home\Controller\IndexController.class.php 第 49 行.
+NOTIC: [2] curl_setopt() expects parameter 2 to be long, string given D:\phpStudy\WWW\enjoy.com\App\Home\Controller\IndexController.class.php 第 49 行.
+NOTIC: [8] Use of undefined constant curlOPT_proxyPORT - assumed 'curlOPT_proxyPORT' D:\phpStudy\WWW\enjoy.com\App\Home\Controller\IndexController.class.php 第 50 行.
+NOTIC: [2] curl_setopt() expects parameter 2 to be long, string given D:\phpStudy\WWW\enjoy.com\App\Home\Controller\IndexController.class.php 第 50 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/forumdata/cache/style_24.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:forumdata
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/include/javascript/common.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:include
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/include/javascript/menu.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 非法操作:include
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/include/javascript/ajax.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:include
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/include/Language.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:include
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/include/big5style.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 非法操作:include
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/images/green001/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/images/green001/collapsed_no.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/images/green001/folder_hot.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/images/green001/newtopic.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/images/green001/pin_3.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/images/thankyou.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/images/green001/folder_lock.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/images/green001/agree.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/images/attachicons/common.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/images/green001/pin_2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/images/green001/folder_new.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/images/green001/pin_1.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/images/new.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/images/green001/folder_common.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/pp5544.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/C0616CP.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/10640002.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/142912.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/11150099.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/jing49.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/223288.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/amdc911.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/2244940.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/b77777777.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/60699223.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/v66666666.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/bm777777.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/3410099.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/32666088.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/88898XPJ2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/2245ee.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/bcbm555552.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/314422222.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/77477202.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/b7969.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/365666b2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/sunbo361.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/7713shows.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/7713show2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/e168e68.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/cvti3573.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/iv96.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/amjs16.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/qqlove99.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/bjl2088.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/xpj2886.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/s0101ss.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/8458a.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/hg388x.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/mm7433.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/9599188.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T09:50:18+08:00 ] 127.0.0.1 /index/paypic/761166a2.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T11:02:05+08:00 ] 127.0.0.1 /index/copy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T11:02:16+08:00 ] 127.0.0.1 /index/copy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-24T11:02:20+08:00 ] 127.0.0.1 /index/copy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-24T11:03:46+08:00 ] 127.0.0.1 /index/copy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-24T11:03:54+08:00 ] 127.0.0.1 /index/copy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-24T11:04:02+08:00 ] 127.0.0.1 /index/copy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-05-24T11:04:17+08:00 ] 127.0.0.1 /index/copy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-24T11:04:17+08:00 ] 127.0.0.1 /box-static/disk-theme/theme/white/header-theme.css?t=1494214968314
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Box-static
+
+[ 2017-05-24T11:04:17+08:00 ] 127.0.0.1 /res/static/images/share_notfound_ads.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T11:04:18+08:00 ] 127.0.0.1 /res/static/images/share_notfound_ads.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-05-24T11:04:18+08:00 ] 127.0.0.1 /feproxy/ad/list?list%5B0%5D%5Bid%5D=web-cancelleddoc&list%5B0%5D%5Bw%5D=750&list%5B0%5D%5Bh%5D=90&uk=&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5NTA1ODE1NDAuNDI1MTY3MjE0ODIzODg2NzU=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Feproxy
+
+[ 2017-05-24T11:04:18+08:00 ] 127.0.0.1 /disk/cmsdata?clienttype=0&web=1&do=client&t=1495595058155&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5NTA1ODE1NjAuNjEzNDc4MDExNDUxNjYxNg==
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Disk
+
+[ 2017-05-24T11:04:18+08:00 ] 127.0.0.1 /share/hotrec?t=1495595058158&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5NTA1ODE1OTAuODc5Mjg5OTg2NTY1NzA5MQ==
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Share
+
+[ 2017-05-24T11:04:18+08:00 ] 127.0.0.1 /box-static/disk-header/disk.header.js?t=1494214992858
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Box-static
+
+[ 2017-05-24T11:04:18+08:00 ] 127.0.0.1 /res/static/images/favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-05-24T11:04:22+08:00 ] 127.0.0.1 /share/link?shareid=220706&uk=4197775610&from=hotrec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Share
+
+[ 2017-05-24T11:04:54+08:00 ] 127.0.0.1 /share/link?shareid=220706&uk=4197775610&from=hotrec
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Share
+
+[ 2017-05-24T11:05:49+08:00 ] 127.0.0.1 /index/copy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-05-24T11:05:49+08:00 ] 127.0.0.1 /box-static/disk-theme/theme/white/header-theme.css?t=1494214968314
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Box-static
+
+[ 2017-05-24T11:06:24+08:00 ] 127.0.0.1 /pcloud/like/data?bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5NTE4NDg2NjAuNDA1ODcyNjUwMjExNjc2OTY=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Pcloud
+
+[ 2017-05-24T11:06:24+08:00 ] 127.0.0.1 /pcloud/comment/list?source_uk=4197775610&source_id=220706&type=0&start=0&limit=20&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5NTE4NDg3MjAuOTk3MTMzMDk0MTE4OTA4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Pcloud
+
+[ 2017-05-24T11:06:24+08:00 ] 127.0.0.1 /share/hotrec?t=1495595184875&fn=.pdf&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5NTE4NDg3NTAuMzg5ODU0MTY3MzU1MjI0NQ==
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Share
+
+[ 2017-05-24T11:06:24+08:00 ] 127.0.0.1 /share/count?uk=4197775610&shareid=220706&type=vdt&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5NTE4NDg4MTAuMjEyMTY0ODY4MTM1MDA1MjQ=&sign=47850ede31d82dff1a4ddd67ad0f84192b5c83de&timestamp=1495595145
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Share
+
+[ 2017-05-24T11:06:24+08:00 ] 127.0.0.1 /share/autoincre?uk=4197775610&shareid=220706&type=2&sign=47850ede31d82dff1a4ddd67ad0f84192b5c83de&timestamp=1495595145&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5NTE4NDg4MzAuMzE5NjYwMzU2MDM1NDU2MDY=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Share
+
+[ 2017-05-24T11:06:24+08:00 ] 127.0.0.1 /feproxy/ad/list?list%5B0%5D%5Bid%5D=web-sharelinkpic&list%5B0%5D%5Bw%5D=200&list%5B0%5D%5Bh%5D=200&list%5B1%5D%5Bid%5D=web-sharesinglebanner&list%5B1%5D%5Bw%5D=710&list%5B1%5D%5Bh%5D=90&uk=&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5NTE4NDg4NzAuNDYyNzYyNDMxMDA4NzQxMjY=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Feproxy
+
+[ 2017-05-24T11:06:24+08:00 ] 127.0.0.1 /disk/cmsdata?do=recommend&time=1495595184894&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5NTE4NDg5NzAuNTI5ODcyMDcwNzY1MTIyOA==
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Disk
+
+[ 2017-05-24T11:06:24+08:00 ] 127.0.0.1 /feproxy/ad/list?list%5B0%5D%5Bid%5D=web-sharelinkpic&list%5B0%5D%5Bw%5D=200&list%5B0%5D%5Bh%5D=200&list%5B1%5D%5Bid%5D=web-sharesinglebanner&list%5B1%5D%5Bw%5D=710&list%5B1%5D%5Bh%5D=90&uk=&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5NTE4NDk1OTAuNTI5MjY0MTk1NTg5MzQ4Nw==
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Feproxy
+
+[ 2017-05-24T11:06:25+08:00 ] 127.0.0.1 /box-static/disk-header/disk.header.js?t=1494214992858
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Box-static
+
+[ 2017-05-24T11:06:25+08:00 ] 127.0.0.1 /box-static/file-widget-1/doc/util/wenku_nomod_nomd5_nopack/commreader.swf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Box-static
+
+[ 2017-05-24T11:34:36+08:00 ] 127.0.0.1 /index/copy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-24T11:35:00+08:00 ] 127.0.0.1 /index/copy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-24T11:35:02+08:00 ] 127.0.0.1 /index/copy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-24T11:35:17+08:00 ] 127.0.0.1 /index/copy
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-05-24T11:35:17+08:00 ] 127.0.0.1 /box-static/disk-theme/theme/white/header-theme.css?t=1494214968314
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Box-static
+
+[ 2017-05-24T11:35:17+08:00 ] 127.0.0.1 /pcloud/like/data?bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5NjkxNzE5NTAuNzU2Mjk3NDMyMzUxODU3NA==
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Pcloud
+
+[ 2017-05-24T11:35:17+08:00 ] 127.0.0.1 /pcloud/comment/list?source_uk=4197775610&source_id=220706&type=0&start=0&limit=20&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5NjkxNzE5OTAuMDYwMDU3ODAxNjYwMTUwMjk=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Pcloud
+
+[ 2017-05-24T11:35:17+08:00 ] 127.0.0.1 /share/hotrec?t=1495596917201&fn=.pdf&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5NjkxNzIwMjAuNzg5NDAzMTM4NDQ5NDE1Ng==
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Share
+
+[ 2017-05-24T11:35:17+08:00 ] 127.0.0.1 /share/count?uk=4197775610&shareid=220706&type=vdt&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5NjkxNzIwNzAuODY1OTQzOTIxOTYyNzUyOQ==&sign=31738cdee7d1620c5f394176d80a7083975e3b9b&timestamp=1495596913
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Share
+
+[ 2017-05-24T11:35:17+08:00 ] 127.0.0.1 /share/autoincre?uk=4197775610&shareid=220706&type=2&sign=31738cdee7d1620c5f394176d80a7083975e3b9b&timestamp=1495596913&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5NjkxNzIwODAuMDQ4MjkxNTc0Njk3OTQxNTQ=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Share
+
+[ 2017-05-24T11:35:17+08:00 ] 127.0.0.1 /feproxy/ad/list?list%5B0%5D%5Bid%5D=web-sharelinkpic&list%5B0%5D%5Bw%5D=200&list%5B0%5D%5Bh%5D=200&list%5B1%5D%5Bid%5D=web-sharesinglebanner&list%5B1%5D%5Bw%5D=710&list%5B1%5D%5Bh%5D=90&uk=&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5NjkxNzIxMTAuNzA1MTU0NDkwMTkxNDg5NQ==
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Feproxy
+
+[ 2017-05-24T11:35:17+08:00 ] 127.0.0.1 /disk/cmsdata?do=recommend&time=1495596917213&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5NjkxNzIxNDAuOTQ3NDUwMDYxMzI4NzA5MQ==
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Disk
+
+[ 2017-05-24T11:35:17+08:00 ] 127.0.0.1 /box-static/disk-header/disk.header.js?t=1494214992858
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Box-static
+
+[ 2017-05-24T11:35:17+08:00 ] 127.0.0.1 /feproxy/ad/list?list%5B0%5D%5Bid%5D=web-sharelinkpic&list%5B0%5D%5Bw%5D=200&list%5B0%5D%5Bh%5D=200&list%5B1%5D%5Bid%5D=web-sharesinglebanner&list%5B1%5D%5Bw%5D=710&list%5B1%5D%5Bh%5D=90&uk=&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5NjkxNzI4NzAuMTExMjA4MjIwMjQ1MzE2NjI=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Feproxy
+
+[ 2017-05-24T11:35:17+08:00 ] 127.0.0.1 /box-static/file-widget-1/doc/util/wenku_nomod_nomd5_nopack/commreader.swf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Box-static
+
+[ 2017-05-24T11:35:38+08:00 ] 127.0.0.1 /box-static/disk-theme/theme/white/header-theme.css?t=1494214968314
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Box-static
+
+[ 2017-05-24T11:35:53+08:00 ] 127.0.0.1 /disk/cmsdata?do=download&_=1495596917138&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5Njk1MzgxNDAuMjM3NDc5ODUyOTc4MTQwMTI=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Disk
+
+[ 2017-05-24T11:35:53+08:00 ] 127.0.0.1 /disk/cmsdata?do=manual&ch=download_limit&_=1495596917139&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5Njk1MzgxODAuODUyNDk1NzU4MzI4NTg2OA==
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Disk
+
+[ 2017-05-24T11:35:53+08:00 ] 127.0.0.1 /api/analytics?_lsid=1495596953783&_lsix=1&clienttype=0&vmode=null&searchForm=false&version=v5&type=tab_download_click&value=%E9%80%89%E4%B8%AD%E6%96%87%E4%BB%B6%E5%90%8E%E7%82%B9%E4%B8%8A%E6%96%B9%E6%8C%89%E9%92%AE%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Api
+
+[ 2017-05-24T11:35:53+08:00 ] 127.0.0.1 /api/analytics?_lsid=1495596953819&_lsix=1&clienttype=0&vmode=null&searchForm=false&version=v5&type=download_platform_windows
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Api
+
+[ 2017-05-24T11:35:53+08:00 ] 127.0.0.1 /api/sharedownload?sign=31738cdee7d1620c5f394176d80a7083975e3b9b&timestamp=1495596913&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5Njk1Mzg2MjAuNTE5Mjg1Njk3MDI0MzE1Ng==
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Api
+
+[ 2017-05-24T11:35:53+08:00 ] 127.0.0.1 /api/analytics?_lsid=1495596953859&_lsix=1&clienttype=0&vmode=null&searchForm=false&version=v5&page=2&type=DownloadPluginLowSmallFileDownload&fileSize=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Api
+
+[ 2017-05-24T11:35:55+08:00 ] 127.0.0.1 /share/qrcode?w=148&h=148&url=http%3A%2F%2Fenjoy.com%2Findex%2Fcopy%26qrfrom%3D1%26qrtype%3Dpdf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Share
+
+[ 2017-05-24T11:36:24+08:00 ] 127.0.0.1 /disk/cmsdata?do=manual&ch=download_limit&_=1495596917140&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5Njk4NDMwOTAuNzI4MTA4MDM5MTI1ODAwMQ==
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Disk
+
+[ 2017-05-24T11:36:24+08:00 ] 127.0.0.1 /api/analytics?_lsid=1495596984304&_lsix=1&clienttype=0&vmode=null&searchForm=false&version=v5&type=tab_download_click&value=%E9%80%89%E4%B8%AD%E6%96%87%E4%BB%B6%E5%90%8E%E7%82%B9%E4%B8%8A%E6%96%B9%E6%8C%89%E9%92%AE%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Api
+
+[ 2017-05-24T11:36:24+08:00 ] 127.0.0.1 /api/analytics?_lsid=1495596984311&_lsix=1&clienttype=0&vmode=null&searchForm=false&version=v5&type=download_platform_windows
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Api
+
+[ 2017-05-24T11:36:24+08:00 ] 127.0.0.1 /api/sharedownload?sign=31738cdee7d1620c5f394176d80a7083975e3b9b&timestamp=1495596913&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5Njk4NDM2ODAuNzY1OTI4NjM1ODM5MzcyOQ==
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Api
+
+[ 2017-05-24T11:36:24+08:00 ] 127.0.0.1 /api/analytics?_lsid=1495596984365&_lsix=1&clienttype=0&vmode=null&searchForm=false&version=v5&page=2&type=DownloadPluginLowSmallFileDownload&fileSize=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Api
+
+[ 2017-05-24T11:36:27+08:00 ] 127.0.0.1 /disk/cmsdata?do=manual&ch=download_limit&_=1495596917141&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5Njk4NzAzNzAuNjAxOTExOTE5NjU3MTQx
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Disk
+
+[ 2017-05-24T11:36:27+08:00 ] 127.0.0.1 /api/analytics?_lsid=1495596987033&_lsix=1&clienttype=0&vmode=null&searchForm=false&version=v5&type=tab_download_click&value=%E9%80%89%E4%B8%AD%E6%96%87%E4%BB%B6%E5%90%8E%E7%82%B9%E4%B8%8A%E6%96%B9%E6%8C%89%E9%92%AE%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Api
+
+[ 2017-05-24T11:36:27+08:00 ] 127.0.0.1 /api/analytics?_lsid=1495596987039&_lsix=1&clienttype=0&vmode=null&searchForm=false&version=v5&type=download_platform_windows
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Api
+
+[ 2017-05-24T11:36:27+08:00 ] 127.0.0.1 /api/sharedownload?sign=31738cdee7d1620c5f394176d80a7083975e3b9b&timestamp=1495596913&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5Njk4NzA5MjAuMjc4Njg4NzQ5MDY1NjIyNw==
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Api
+
+[ 2017-05-24T11:36:27+08:00 ] 127.0.0.1 /api/analytics?_lsid=1495596987089&_lsix=1&clienttype=0&vmode=null&searchForm=false&version=v5&page=2&type=DownloadPluginLowSmallFileDownload&fileSize=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Api
+
+[ 2017-05-24T11:36:27+08:00 ] 127.0.0.1 /api/analytics?_lsid=1495596987033&_lsix=1&clienttype=0&vmode=null&searchForm=false&version=v5&type=tab_download_click&value=%E9%80%89%E4%B8%AD%E6%96%87%E4%BB%B6%E5%90%8E%E7%82%B9%E4%B8%8A%E6%96%B9%E6%8C%89%E9%92%AE%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Api
+
+[ 2017-05-24T11:36:27+08:00 ] 127.0.0.1 /api/analytics?_lsid=1495596987039&_lsix=1&clienttype=0&vmode=null&searchForm=false&version=v5&type=download_platform_windows
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Api
+
+[ 2017-05-24T11:37:27+08:00 ] 127.0.0.1 /disk/cmsdata?do=manual&ch=download_limit&_=1495596917142&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5NzA0NzY3MTAuMTgyNzg4NTEyNDM2NjczMDU=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Disk
+
+[ 2017-05-24T11:37:27+08:00 ] 127.0.0.1 /api/analytics?_lsid=1495597047664&_lsix=1&clienttype=0&vmode=null&searchForm=false&version=v5&type=tab_download_click&value=%E9%80%89%E4%B8%AD%E6%96%87%E4%BB%B6%E5%90%8E%E7%82%B9%E4%B8%8A%E6%96%B9%E6%8C%89%E9%92%AE%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Api
+
+[ 2017-05-24T11:37:27+08:00 ] 127.0.0.1 /api/analytics?_lsid=1495597047673&_lsix=1&clienttype=0&vmode=null&searchForm=false&version=v5&type=download_platform_windows
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载控制器:Api
+
+[ 2017-05-24T11:37:27+08:00 ] 127.0.0.1 /api/sharedownload?sign=31738cdee7d1620c5f394176d80a7083975e3b9b&timestamp=1495596913&bdstoken=null&channel=chunlei&clienttype=0&web=1&app_id=250528&logid=MTQ5NTU5NzA0NzczMTAuNzQ5NTUxMjY1MDM0ODI0Ng==
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Api
+
+[ 2017-05-24T11:37:27+08:00 ] 127.0.0.1 /api/analytics?_lsid=1495597047728&_lsix=1&clienttype=0&vmode=null&searchForm=false&version=v5&page=2&type=DownloadPluginLowSmallFileDownload&fileSize=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载控制器:Api
+
